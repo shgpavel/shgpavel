@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shgpavel.
 - 👀 I’m interested in linux systems and firmware.
-- 🌱 I’m currently learning c++ and go.
+- 🌱 python, zsh, с, rust, little bit go.
 - 📫 How to reach me shgpavel@yandex.ru
 
 <!---
